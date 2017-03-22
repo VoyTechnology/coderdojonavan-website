@@ -6,7 +6,200 @@
     <description>Recent content on CoderDojo Navan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2017 19:17:45 +0000</lastBuildDate>
     <atom:link href="/new.coderdojonavan.ie/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>We Need Mentors</title>
+      <link>/new.coderdojonavan.ie/post/we-need-mentors/</link>
+      <pubDate>Sun, 19 Mar 2017 19:17:45 +0000</pubDate>
+      
+      <guid>/new.coderdojonavan.ie/post/we-need-mentors/</guid>
+      <description>&lt;p&gt;Appeal for NEW and/or past mentors! Do you have sme coding/IT experience? Can
+you volunteer 2 hours of your choice between 11:00 and 15:00 each Saturday for
+6 weeks, in whatever area of expertise you can assist with? Examples are HTML,
+App Inventor and Scratch for beginners of advanced. Or a course based on your
+area of expertise for our more experienced students as we welcome new options.
+Contact us at coderdojonavan@gmail.com.&lt;/p&gt;
+
+&lt;p&gt;We are only able to offer classes based on the kind support of volunteers, so
+if you know of anyone that might be able to help, please encourage them to get
+involved.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scratch</title>
+      <link>/new.coderdojonavan.ie/class/scratch/</link>
+      <pubDate>Sun, 19 Mar 2017 13:38:23 +0000</pubDate>
+      
+      <guid>/new.coderdojonavan.ie/class/scratch/</guid>
+      <description>
+
+&lt;h1 id=&#34;scratch&#34;&gt;Scratch&lt;/h1&gt;
+
+&lt;p&gt;Scratch is a programming language and an online community where children can
+program and share interactive media such as stories, games, and animation with
+people from all over the world. As children create with Scratch, they learn to
+think creatively, work collaboratively, and reason systematically.&lt;/p&gt;
+
+&lt;p&gt;While Scratch is primarily designed for 8 to 16 year olds, it is also used by
+people of all ages, including younger children with their parents.&lt;/p&gt;
+
+&lt;h2 id=&#34;scratch-beginners&#34;&gt;Scratch Beginners&lt;/h2&gt;
+
+&lt;h3 id=&#34;couse-times&#34;&gt;Couse Times:&lt;/h3&gt;
+
+&lt;p&gt;Spring 2017 session: 12:30 - 14:30&lt;/p&gt;
+
+&lt;p&gt;This class is suitable for complete beginners to Scratch.&lt;/p&gt;
+
+&lt;p&gt;Please bring headphones and a mouse and install Scratch Offline.&lt;/p&gt;
+
+&lt;p&gt;If this is your first time attending, please install Scratch on your laptop
+if it is not there already - Scratch is free and can be downloaded at the
+&lt;a href=&#34;https://scratch.mit.edu/scratch2download/&#34;&gt;Scratch Download Page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>/new.coderdojonavan.ie/class/go/</link>
+      <pubDate>Sun, 19 Mar 2017 13:21:26 +0000</pubDate>
+      
+      <guid>/new.coderdojonavan.ie/class/go/</guid>
+      <description>
+
+&lt;h1 id=&#34;go&#34;&gt;Go&lt;/h1&gt;
+
+&lt;h3 id=&#34;course-times&#34;&gt;Course Times:&lt;/h3&gt;
+
+&lt;p&gt;Spring 2017 session: 11:00 - 13:00&lt;/p&gt;
+
+&lt;p&gt;In this course we will explore the world of Go, free, fast, easy to learn
+language very similar to Python. We will be making basic chatbots - programs
+which will respond to what you write in chat&lt;/p&gt;
+
+&lt;p&gt;This couse is suitable for kids with some level of programming experience, such
+as Python, Scratch or other language. Students should be familiar with basic
+computer functions, such as downloading and opening files. There will be typing
+involved. Before first class please have the following software installed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://golang.org/dl&#34;&gt;Go 1.8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/download&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Optional - &lt;a href=&#34;https://atom.io&#34;&gt;Atom&lt;/a&gt; or &lt;a href=&#34;https://notepad-plus-plus.org/download&#34;&gt;NotePad++&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Going over &lt;a href=&#34;https://try.github.io&#34;&gt;Github&amp;rsquo;s Git Tutorial&lt;/a&gt; would help you
+understand Git, which will be used to save and share your code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>/new.coderdojonavan.ie/info/</link>
+      <pubDate>Fri, 17 Mar 2017 18:04:17 +0000</pubDate>
+      
+      <guid>/new.coderdojonavan.ie/info/</guid>
+      <description>
+
+&lt;h1 id=&#34;information&#34;&gt;INFORMATION&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;CoderDojo Navan&lt;/strong&gt; is a cool, free environment where kidfs can learn how to
+program, build wbesites, animated characters and games with different software
+programs and languages.&lt;/p&gt;
+
+&lt;p&gt;All the mentors are volunteers who either teach or work in IT, and our aim is
+to help you develop the skills you want to learn.&lt;/p&gt;
+
+&lt;p&gt;We will now be holding our Dojo sessions for  6 consecutive Sataurdays for a 2
+hour session during a 4 hour window; 11:00 - 15:00 each week, instead of once
+a month. The actual times have been determined by the mentor leading each
+particular class. Therefore some classes will be 11:00 - 13:00, others
+12:00-14:00 and some 13:00 - 15:00&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Insert image here&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Given the volunteer nature of the Dojo, it is requested that those signing up
+for a course, do so with the intention of attending all 6 Saturdays in
+recognition of the time being given by our volunteer mentors. The students
+that attend all dates will then be awarded a course completion certificate.&lt;/p&gt;
+
+&lt;p&gt;As well as &amp;lsquo;Scratch&amp;rsquo;, which is the coding for beginners and younger students,
+we are now offering the following more advanced courses specifically targeting
+older kids that have perhaps attended in the past or are self-taught and wish
+to broaden their skills in any of the following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Website Design&lt;/strong&gt; - Do you have a hobby or want to share your interests?
+Then share these and more on your very own website. Learn how to create web
+pages in HTML and design each page using CSS for layouts, fonts, colours etc.
+With this knowledge you can then build and share your website on the web.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User Interface (UI) Design&lt;/strong&gt; - Bring your app, game or web page to life by
+creating graphical user interfaces that engage and inspire people. Users need
+to feel comfortable with the system they are using and it needs to respond
+accordingly, i.e. buttons should behave like buttons and aliens should
+wiggle. Using free tools like Inkscape and GIMP, learn to take your blank
+canvas and put your ideas to life in a way that people enjoy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; - Want to create a new gaming experience by exploring the magical
+world of Minecraft programming? You&amp;rsquo;ve probably breaten the creepers,
+travelled deep into caves and maybe even gone to The End and back - but have
+you ever transformed a sword into a magic wand? Build a palace in a blink of
+an eye? Designed to own colour-changing disco dance floor? Learn to do this
+and and more in Minecraft with the power of Python!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dev Ops&lt;/strong&gt; - (Development/Operations) - All websites sit on servers and
+DevOps are the people who put up and manage the websites online. Learn to use
+tools for controlling the website code/web app using Git, deploying code to
+servers, using Linux, server administration and open source and its benefits.
+All to ensure that your website stays online and is easy to maintain.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For all courses except &amp;lsquo;Scratch&amp;rsquo;, students should already be familiar with
+basic computer functions including downloading, opening files, saving
+information to different locations and basic keyboard skills.&lt;/p&gt;
+
+&lt;p&gt;There will be limited space for each course. Our regulars and those on the
+waiting list shall be contacted by emails over the comming days with any
+available places thereafter announced here.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in any taking part or if you are interested in mentoring
+or offering your skills as a speaekr to a class for a once off workshop on
+specialized software (such as Photoshop, AutoCAD, etc.) or hardware workshop,
+please email us on coderdojonavan@gmail.com&lt;/p&gt;
+
+&lt;h2 id=&#34;some-details-on-our-sessions&#34;&gt;Some details on our sessions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We meet on each Saturday for six weeks.&lt;/li&gt;
+&lt;li&gt;Booking ahead is essential. Tickets are available at &lt;a href=&#34;https://zen.coderdojo.com/dojo/ie/meath/unity-centre-windtown-navan-co-meath/navan&#34;&gt;CoderDojo Zen&lt;/a&gt;
+page.&lt;/li&gt;
+&lt;li&gt;The sessions run at various times throughout the day: 11:00 to 15:00&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Every child must have a parent or adult in charge!&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Parents must stay with child during the session (helping if possible).&lt;/li&gt;
+&lt;li&gt;CoderDojo Navan is supported by The Unity Centre, Navan.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check out and Like our &lt;a href=&#34;https://www.facebook.com/CoderDojoNavan/&#34;&gt;Facebook page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-do-you-need-to-bring&#34;&gt;What do you need to bring:&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Please bring a Wi-Fi neabled laptop, fully charged if possible.&lt;/li&gt;
+&lt;li&gt;If you are attending a Scratch class, please install &lt;a href=&#34;https://scratch.mit.edu/scratch2download/&#34;&gt;Scratch 2.0&lt;/a&gt;
+on your laptop&lt;/li&gt;
+&lt;li&gt;It woud be a good idea to bring a USB key to save your work.&lt;/li&gt;
+&lt;li&gt;For sprite-drawing we recommend you bring a pair of headphones and a mouse
+(even an old wired mouse) as the Paint Editor doesn&amp;rsquo;t suit a laptop mouse
+ pad.&lt;/li&gt;
+&lt;li&gt;If you are new to the CoderDojo Navan, you can pre-register as a member by
+downloading our &lt;a href=&#34;new.coderdojonavan.ie/coderdojo-navan-member-registration-and-parental-permission-form.pdf&#34;&gt;registration form&lt;/a&gt;,
+ fill out and present it to a mentor when you arrive.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;happy-coding&#34;&gt;Happy Coding!&lt;/h2&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

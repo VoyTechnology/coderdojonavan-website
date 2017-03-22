@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CoderDojo Navan</title>
+    <link>/new.coderdojonavan.ie/post/index.xml</link>
+    <description>Recent content in Posts on CoderDojo Navan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2017 19:17:45 +0000</lastBuildDate>
+    <atom:link href="/new.coderdojonavan.ie/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>We Need Mentors</title>
+      <link>/new.coderdojonavan.ie/post/we-need-mentors/</link>
+      <pubDate>Sun, 19 Mar 2017 19:17:45 +0000</pubDate>
+      
+      <guid>/new.coderdojonavan.ie/post/we-need-mentors/</guid>
+      <description>&lt;p&gt;Appeal for NEW and/or past mentors! Do you have sme coding/IT experience? Can
+you volunteer 2 hours of your choice between 11:00 and 15:00 each Saturday for
+6 weeks, in whatever area of expertise you can assist with? Examples are HTML,
+App Inventor and Scratch for beginners of advanced. Or a course based on your
+area of expertise for our more experienced students as we welcome new options.
+Contact us at coderdojonavan@gmail.com.&lt;/p&gt;
+
+&lt;p&gt;We are only able to offer classes based on the kind support of volunteers, so
+if you know of anyone that might be able to help, please encourage them to get
+involved.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

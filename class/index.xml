@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classes on CoderDojo Navan</title>
+    <link>/new.coderdojonavan.ie/class/index.xml</link>
+    <description>Recent content in Classes on CoderDojo Navan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2017 13:38:23 +0000</lastBuildDate>
+    <atom:link href="/new.coderdojonavan.ie/class/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scratch</title>
+      <link>/new.coderdojonavan.ie/class/scratch/</link>
+      <pubDate>Sun, 19 Mar 2017 13:38:23 +0000</pubDate>
+      
+      <guid>/new.coderdojonavan.ie/class/scratch/</guid>
+      <description>
+
+&lt;h1 id=&#34;scratch&#34;&gt;Scratch&lt;/h1&gt;
+
+&lt;p&gt;Scratch is a programming language and an online community where children can
+program and share interactive media such as stories, games, and animation with
+people from all over the world. As children create with Scratch, they learn to
+think creatively, work collaboratively, and reason systematically.&lt;/p&gt;
+
+&lt;p&gt;While Scratch is primarily designed for 8 to 16 year olds, it is also used by
+people of all ages, including younger children with their parents.&lt;/p&gt;
+
+&lt;h2 id=&#34;scratch-beginners&#34;&gt;Scratch Beginners&lt;/h2&gt;
+
+&lt;h3 id=&#34;couse-times&#34;&gt;Couse Times:&lt;/h3&gt;
+
+&lt;p&gt;Spring 2017 session: 12:30 - 14:30&lt;/p&gt;
+
+&lt;p&gt;This class is suitable for complete beginners to Scratch.&lt;/p&gt;
+
+&lt;p&gt;Please bring headphones and a mouse and install Scratch Offline.&lt;/p&gt;
+
+&lt;p&gt;If this is your first time attending, please install Scratch on your laptop
+if it is not there already - Scratch is free and can be downloaded at the
+&lt;a href=&#34;https://scratch.mit.edu/scratch2download/&#34;&gt;Scratch Download Page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>/new.coderdojonavan.ie/class/go/</link>
+      <pubDate>Sun, 19 Mar 2017 13:21:26 +0000</pubDate>
+      
+      <guid>/new.coderdojonavan.ie/class/go/</guid>
+      <description>
+
+&lt;h1 id=&#34;go&#34;&gt;Go&lt;/h1&gt;
+
+&lt;h3 id=&#34;course-times&#34;&gt;Course Times:&lt;/h3&gt;
+
+&lt;p&gt;Spring 2017 session: 11:00 - 13:00&lt;/p&gt;
+
+&lt;p&gt;In this course we will explore the world of Go, free, fast, easy to learn
+language very similar to Python. We will be making basic chatbots - programs
+which will respond to what you write in chat&lt;/p&gt;
+
+&lt;p&gt;This couse is suitable for kids with some level of programming experience, such
+as Python, Scratch or other language. Students should be familiar with basic
+computer functions, such as downloading and opening files. There will be typing
+involved. Before first class please have the following software installed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://golang.org/dl&#34;&gt;Go 1.8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/download&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Optional - &lt;a href=&#34;https://atom.io&#34;&gt;Atom&lt;/a&gt; or &lt;a href=&#34;https://notepad-plus-plus.org/download&#34;&gt;NotePad++&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Going over &lt;a href=&#34;https://try.github.io&#34;&gt;Github&amp;rsquo;s Git Tutorial&lt;/a&gt; would help you
+understand Git, which will be used to save and share your code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
